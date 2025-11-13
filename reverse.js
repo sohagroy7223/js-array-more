@@ -2,9 +2,9 @@ const numbers = [1, 2, 3, 4, 5, 6, 7, 8];
 
 // normal ****//
 
-// console.log(numbers);
-// numbers.reverse();
-// console.log(numbers);
+console.log(numbers);
+numbers.reverse();
+console.log(numbers);
 
 // for of reverse *****//
 
@@ -27,11 +27,11 @@ const numbers = [1, 2, 3, 4, 5, 6, 7, 8];
 
 // for loop reverse ****// Array end to - > start
 
-const reverse = [];
-for (let i = numbers.length - 1; i >= 0; i--) {
-    // console.log(i);
-    const num = numbers[i];
-    console.log(num);
-    reverse.push(num);
-}
-console.log(reverse);
+// const reverse = [];
+// for (let i = numbers.length - 1; i >= 0; i--) {
+//     // console.log(i);
+//     const num = numbers[i];
+//     console.log(num);
+//     reverse.push(num);
+// }
+// console.log(reverse);
