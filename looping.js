@@ -40,5 +40,5 @@ while (n < friends.length) {
 
 const numbers = [23, 46, 68, 35, 23, 67, 90, 68, 34, 43, 56];
 for (let i = 0; i < numbers.length; i++) {
-    console.log(numbers[i]);
+    // console.log(numbers[i]);
 }
